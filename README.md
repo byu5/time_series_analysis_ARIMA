@@ -26,7 +26,9 @@ The data analysis will provide:
 
 ## Get Started
 + We would require libraries called pmdarima. This is used for .autoarima. The model that we use is a function called auto_arima.
-+ _pip install pmdarima_
+```
+pip install pmdarima
+```
 
 
 ## Background
