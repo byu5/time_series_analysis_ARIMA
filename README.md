@@ -9,9 +9,10 @@ This model is great as an addition to our deciding factor but shouldn’t be our
 Also, it is recommended to run on jupyter notebook. With jupyter lab, there ARIMA model is updated, thus it will no longer work with the older versions. 
 
 ## Table of Content
-* [Features]()
-* [Get Started]()
-* [Contributors]()
+* [Features](https://github.com/byu5/time_series_analysis_ARIMA/blob/main/README.md#features)
+* [Get Started](https://github.com/byu5/time_series_analysis_ARIMA/blob/main/README.md#get-started)
+* [Background](https://github.com/byu5/time_series_analysis_ARIMA/blob/main/README.md#background)
+* [Contributors](https://github.com/byu5/time_series_analysis_ARIMA/blob/main/README.md#contributors)
 
 ## Features
 The data analysis will provide:
