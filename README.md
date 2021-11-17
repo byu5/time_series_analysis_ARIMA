@@ -1,1 +1,3 @@
-# time_series_analysis_ARIMA
+# Time Series Analysis ARIMA
+
+This is our implementation on ARIMA time series analysis. 
